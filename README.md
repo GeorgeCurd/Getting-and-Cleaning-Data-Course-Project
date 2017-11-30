@@ -2,7 +2,7 @@
 
 This repository holds the scripts, read me and code book for the end of course Assignment for Coursera's Getting and Cleaning Data Course
 
-The run_analysis file does the following:
+The Run_Analysis.R file does the following:
 
 1. Reads in the test and training datasets, as well as the activity labels and column names
 2. Merges the test and training datasets, ensuring that all column names are correctly and appropriately labelled.
