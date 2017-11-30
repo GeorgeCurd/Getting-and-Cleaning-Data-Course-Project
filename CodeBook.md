@@ -1,10 +1,13 @@
 This code book summarises the data in the tidyset.txt output
 
 1. The Variables in Tidyset
+
       This output contains 35 rows and 68 columns. Each row has averaged data for each of the activity names and subjects
       
 2. The Factor (grouping) Variables
+
       Subject
+      
       Activity Name
       
 3. The Measurement Variables
@@ -77,6 +80,7 @@ This code book summarises the data in the tidyset.txt output
       fBodyBodyGyroJerkMag-std()
 
 4.    The Activity Labels
+
 
       WALKING
       WALKING_UPSTAIRS
